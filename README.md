@@ -1,4 +1,7 @@
-## Fake News Detection in Ecuador’s 2025 Elections: A Comparative Study of Machine Learning Models with X Social Media Platform Data
+# Fake News Detection and Dataset Analysis in Ecuador's 2025 Elections: A Comparative Study of Machine Learning Models with X Social Media Platform Data
+
+
+Welcome to the repo
 
 ## Required Environment
 
